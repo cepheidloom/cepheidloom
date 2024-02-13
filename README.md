@@ -1,3 +1,8 @@
+!(https://i.pinimg.com/236x/ba/33/f8/ba33f8508e350d94b4ea86f097af6605--dinosaurs-manga.jpg)
+
+
+
+
 - 👋 Hi, I’m Manish Pratap Singh
 - 👀 I’m interested in Machine Learning and Software Engineering, I prefer to do my projects in Python and Rust
 - 🌱 I’m currently learning Rust.
